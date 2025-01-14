@@ -3,7 +3,7 @@
 ### Data Science
 1. [Home Credit Default Risk Classification - with large imbalanced dataset](https://github.com/CelineChiLamNg/home_credit_default_prediction)
 2. [Spaceship Titanic Kaggle dataset](https://github.com/CelineChiLamNg/spaceship_prediction)
-3. [Stroke Prediction](https://github.com/CelineChiLamNg/stroke_prediction)
+3. [Stroke Prediction](https://github.com/CelineChiLamNg/stroke-prediction)
 4. [Travel Insurance Prediction - my first machine learning project](https://github.com/CelineChiLamNg/travel_insurance_prediction)
 
 ### Data Analysis
