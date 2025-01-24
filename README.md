@@ -9,7 +9,7 @@
 ### Data Analysis
 1. [Red Wine Statistical Modeling](https://github.com/CelineChiLamNg/red_wine_regression) - analysis with Logistic Regression
 2. [A/B Tests](https://github.com/CelineChiLamNg/AB-tests) - statistical inference
-3. [Tech Mental Health dataset](https://github.com/CelineChiLamNg/tech_mental_health) - SQL
+3. [Tech Mental Health dataset](https://github.com/CelineChiLamNg/tech_mental_health)
 4. [Police brutality in the United States](https://github.com/CelineChiLamNg/fatal_police_shootings)
 
 ### More about me
