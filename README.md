@@ -12,7 +12,8 @@
 3. [Tech Mental Health dataset](https://github.com/CelineChiLamNg/tech_mental_health)
 4. [Police brutality in the United States](https://github.com/CelineChiLamNg/fatal_police_shootings)
 
-   
+### More about me
+Check out my [LinkedIn](www.linkedin.com/in/celine-chi-lam-ng)
 <!--
 **CelineChiLamNg/CelineChiLamNg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
