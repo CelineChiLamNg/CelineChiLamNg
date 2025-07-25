@@ -8,7 +8,7 @@
 
 ### Data Analysis
 1. [E-Commerce Segmentation Analysis](https://github.com/CelineChiLamNg/ecommerce_segmentation) - Customer Segmentation with RFM
-2. [Red Wine Statistical Modeling](https://github.com/CelineChiLamNg/red_wine_regression) - analysis with Logistic Regression
+2. [Red Wine Statistical Modeling](https://github.com/CelineChiLamNg/red_wine_regression) - logistic regression
 3. [A/B Tests](https://github.com/CelineChiLamNg/AB-tests) - statistical inference
 4. [Tech Mental Health dataset](https://github.com/CelineChiLamNg/tech_mental_health)
 5. [Police brutality in the United States](https://github.com/CelineChiLamNg/fatal_police_shootings)
